@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f41db113-9d13-42f3-9920-d86c8f9c5f5b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/test_browser_navigation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_compare_products_shop_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_explicit_wait_shop_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/geckodriver.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_home_page_shop_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_home_page_shop_2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
