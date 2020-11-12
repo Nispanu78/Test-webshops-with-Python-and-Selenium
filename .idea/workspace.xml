@@ -2,7 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f41db113-9d13-42f3-9920-d86c8f9c5f5b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test_on_selenium_standalone_server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-server-standalone-3.141.59.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_webshop/test_webshop.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_webshop/test_webshop.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_webshop/test_webshop.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_webshop/test_webshop.xcodeproj/project.xcworkspace/xcuserdata/nisp78.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_webshop/test_webshop.xcodeproj/xcuserdata/nisp78.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_webshop/test_webshop/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_webshop/test_webshop/Assets.xcassets/AccentColor.colorset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_webshop/test_webshop/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_webshop/test_webshop/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_webshop/test_webshop/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_webshop/test_webshop/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_webshop/test_webshop/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_webshop/test_webshop/SceneDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_webshop/test_webshop/ViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_webshop/test_webshopTests/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_webshop/test_webshopTests/test_webshopTests.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_webshop/test_webshopUITests/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_webshop/test_webshopUITests/test_webshopUITests.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_webshop_appium_IOS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_webshop_appium_android.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,6 +51,7 @@
   <component name="ProjectId" id="1jStATSiRweGiF32dWJGtCM5HLh" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/lib/python3.8/site-packages/TestRunner-0.8.4.dist-info" />
     <property name="project.structure.last.edited" value="SDKs" />
