@@ -8,7 +8,7 @@ class SearchProductsOnIPhone(unittest.TestCase):
         # platform
         desired_caps['device'] = 'iPhone Simulator'
         # platform version
-        desired_caps['version'] = '12'
+        desired_caps['version'] = '7.1'
         # mobile browser
         desired_caps['app'] = 'safari'
 

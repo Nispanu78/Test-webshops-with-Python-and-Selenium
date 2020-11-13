@@ -2,29 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f41db113-9d13-42f3-9920-d86c8f9c5f5b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chromedriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/selenium-server-standalone-3.141.59.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_webshop/test_webshop.xcodeproj/project.pbxproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_webshop/test_webshop.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_webshop/test_webshop.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_webshop/test_webshop.xcodeproj/project.xcworkspace/xcuserdata/nisp78.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_webshop/test_webshop.xcodeproj/xcuserdata/nisp78.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_webshop/test_webshop/AppDelegate.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_webshop/test_webshop/Assets.xcassets/AccentColor.colorset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_webshop/test_webshop/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_webshop/test_webshop/Assets.xcassets/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_webshop/test_webshop/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_webshop/test_webshop/Base.lproj/Main.storyboard" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_webshop/test_webshop/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_webshop/test_webshop/SceneDelegate.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_webshop/test_webshop/ViewController.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_webshop/test_webshopTests/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_webshop/test_webshopTests/test_webshopTests.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_webshop/test_webshopUITests/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_webshop/test_webshopUITests/test_webshopUITests.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_webshop_appium_IOS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_webshop_appium_android.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_webshop_appium_IOS.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_webshop_appium_IOS.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
