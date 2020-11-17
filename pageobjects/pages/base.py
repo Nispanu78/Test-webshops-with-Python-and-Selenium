@@ -15,7 +15,7 @@ class BasePage(object):
     """ Regions define functionality available through all page objects """
     @property
     def search(self):
-        from search import SearchRegion
+        from pageobjects.pages.search import SearchRegion
         return SearchRegion(self.driver)
 
 
