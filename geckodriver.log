@@ -2355,3 +2355,25 @@ JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILUR
 JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
 JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
 1605517269461	Marionette	INFO	Stopped listening on port 51114
+1605608377522	geckodriver	INFO	Listening on 127.0.0.1:51346
+1605608378597	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofileO1U1pH"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605608395755	Marionette	INFO	Listening on port 51353
+1605608396750	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://cookbook.seleniumacademy.com/test-static-05.html, line 256: ReferenceError: jQuery is not defined
+1605608401905	Marionette	INFO	Stopped listening on port 51353
+1605608478267	geckodriver	INFO	Listening on 127.0.0.1:51577
+1605608479319	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofile9rnCaA"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605608484800	Marionette	INFO	Listening on port 51584
+1605608484875	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://cookbook.seleniumacademy.com/test-static-05.html, line 256: ReferenceError: jQuery is not defined
+1605608486958	Marionette	INFO	Stopped listening on port 51584
+console.warn: services.settings: main/whats-new-panel sync interrupted by shutdown
+1605608523647	geckodriver	INFO	Listening on 127.0.0.1:51686
+1605608523757	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofileTufIxQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605608528097	Marionette	INFO	Listening on port 51691
+1605608528170	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://cookbook.seleniumacademy.com/test-static-05.html, line 256: ReferenceError: jQuery is not defined
+1605608529804	Marionette	INFO	Stopped listening on port 51691
