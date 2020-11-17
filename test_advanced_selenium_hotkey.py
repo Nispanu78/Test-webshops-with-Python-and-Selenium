@@ -14,7 +14,7 @@ class HotkeyTest(unittest.TestCase):
     def setUp(self):
         self.driver = webdriver.Firefox()
         self.driver.get(self.URL)
-        self.driver.implicitly_wait(30)
+        self.driver.implicitly_wait(80)
         self.driver.maximize_window()
 
     def test_hotkey(self):

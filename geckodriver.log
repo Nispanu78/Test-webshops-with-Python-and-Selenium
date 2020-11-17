@@ -2377,3 +2377,31 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1605608528170	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: http://cookbook.seleniumacademy.com/test-static-05.html, line 256: ReferenceError: jQuery is not defined
 1605608529804	Marionette	INFO	Stopped listening on port 51691
+1605608610963	geckodriver	INFO	Listening on 127.0.0.1:51782
+1605608611972	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofileddTpO5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605608615700	Marionette	INFO	Listening on port 51789
+1605608615771	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://cookbook.seleniumacademy.com/test-static-05.html, line 256: ReferenceError: jQuery is not defined
+1605608619206	Marionette	INFO	Stopped listening on port 51789
+1605608966566	geckodriver	INFO	Listening on 127.0.0.1:51892
+1605608967586	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofileZHSShZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605608974040	Marionette	INFO	Listening on port 51902
+1605608974160	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605608977671	Marionette	INFO	Stopped listening on port 51902
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1D0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1605609046684	geckodriver	INFO	Listening on 127.0.0.1:52019
+1605609046795	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofileMmlvfp"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605609050010	Marionette	INFO	Listening on port 52024
+1605609050087	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605609053755	Marionette	INFO	Stopped listening on port 52024
+1605609094097	geckodriver	INFO	Listening on 127.0.0.1:52121
+1605609095081	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofile89Rlm8"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605609099362	Marionette	INFO	Listening on port 52128
+1605609099391	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605609102439	Marionette	INFO	Stopped listening on port 52128
