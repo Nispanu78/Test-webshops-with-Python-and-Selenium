@@ -2429,3 +2429,67 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1605609614725	Marionette	INFO	Listening on port 52638
 1605609614857	Marionette	WARN	TLS certificate errors will be ignored for this session
 1605609617897	Marionette	INFO	Stopped listening on port 52638
+1605610482353	geckodriver	INFO	Listening on 127.0.0.1:52758
+1605610482473	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofileT2tYZF"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605610486428	Marionette	INFO	Listening on port 52763
+1605610486470	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605610489304	Marionette	INFO	Stopped listening on port 52763
+1605611014189	geckodriver	INFO	Listening on 127.0.0.1:52873
+1605611015262	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofileXRd991"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605611022495	Marionette	INFO	Listening on port 52880
+1605611022661	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1605611035026	Marionette	INFO	Stopped listening on port 52880
+1605611063517	geckodriver	INFO	Listening on 127.0.0.1:53026
+1605611063659	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofile7FBK8t"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605611069796	Marionette	INFO	Listening on port 53031
+1605611069844	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1605611074669	Marionette	INFO	Stopped listening on port 53031
+1605618029061	geckodriver	INFO	Listening on 127.0.0.1:59608
+1605618030179	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofileXQdSVI"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[Parent 22272, IPC Launch #1] WARNING: parent WaitForMessage() failed: 0x10004003 (ipc/rcv) timed out: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp, line 1299
+[Parent 22272, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp, line 745
+[Parent 22272, IPC Launch #2] WARNING: parent WaitForMessage() failed: 0x10004003 (ipc/rcv) timed out: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp, line 1299
+[Parent 22272, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp, line 745
+1605618076709	Marionette	INFO	Listening on port 59615
+1605618077219	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1605618090919	Marionette	INFO	Stopped listening on port 59615
+1605627342972	geckodriver	INFO	Listening on 127.0.0.1:60955
+1605627344239	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofileGMxos7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605627353927	Marionette	INFO	Listening on port 60962
+1605627355451	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605627363589	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1605627364823	Marionette	INFO	Stopped listening on port 60962
+1605627885476	geckodriver	INFO	Listening on 127.0.0.1:61139
+1605627886538	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofilecp5YNR"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605627892844	Marionette	INFO	Listening on port 61146
+1605627892933	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1605627897221	Marionette	INFO	Stopped listening on port 61146
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofilecp5YNR/protections.sqlite
+1605627920121	geckodriver	INFO	Listening on 127.0.0.1:61271
+1605627920130	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofileDuYILz"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605627921944	Marionette	INFO	Listening on port 61276
+1605627921985	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1605627926492	Marionette	INFO	Stopped listening on port 61276
