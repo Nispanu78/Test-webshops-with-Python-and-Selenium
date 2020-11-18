@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f41db113-9d13-42f3-9920-d86c8f9c5f5b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test_advanced_selenium_cookies.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_advanced_selenium_draganddrop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_advanced_selenium_javascript.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_advanced_selenium_popupwindow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_advanced_selenium_screenshot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_advanced_selenium_video.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bdd/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bdd/environment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bdd/features/search.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bdd/steps/search_steps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/geckodriver.log" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +26,8 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/bdd" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
@@ -38,18 +37,19 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/lib/python3.8/site-packages/TestRunner-0.8.4.dist-info" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/bdd" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/pageobjects" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/bdd" />
       <recent name="$PROJECT_DIR$/venv/lib/python3.8/site-packages/TestRunner-0.8.4.dist-info" />
       <recent name="$PROJECT_DIR$/venv/lib/python3.8/site-packages" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pageobjects" />
     </key>
   </component>
   <component name="RunDashboard">
