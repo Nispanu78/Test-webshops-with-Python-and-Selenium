@@ -1,4 +1,5 @@
 import unittest
+from xmlrunner import xmlrunner
 from test_home_page_shop_1 import HomePageTest
 from test_home_page_shop_2 import TestHomePage
 from test_register_new_user_shop_2 import RegisterNewUser
@@ -23,4 +24,4 @@ smoke_tests = unittest.TestSuite([test_home_page_shop_1 , test_home_page_shop_2,
                                   test_explicit_waits, test_explicit_waits_alerts])
 
 # run the suite
-unittest.TextTestRunner(verbosity=2).run(smoke_tests)
+xmlrunner.XMLTestRunner(verbosity=2, output='test-reports').run(smoke_tests)

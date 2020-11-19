@@ -85,3 +85,230 @@ JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1
 JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
 JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
 1605698589591	Marionette	INFO	Stopped listening on port 49549
+1605703034987	geckodriver	INFO	Listening on 127.0.0.1:55270
+1605703036049	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofile5OFheO"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+[Parent 15124, IPC Launch #1] WARNING: parent WaitForMessage() failed: 0x10004003 (ipc/rcv) timed out: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp, line 1299
+[Parent 15124, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp, line 745
+[Parent 15124, IPC Launch #2] WARNING: parent WaitForMessage() failed: 0x10004003 (ipc/rcv) timed out: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp, line 1299
+[Parent 15124, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp, line 745
+2020-11-18 13:37:59.336 firefox-bin[15124:145810] -[NSPersistentUIWindowSnapshotter writeWindowSnapshot:length:width:height:bytesPerRow:toFile:inDirectory:encryptingWithKey:uuid:checksum:fd:]: 0 == ftruncate(fd, finalFileSize) failed on line 803: No such file or directory
+2020-11-18 13:37:59.339 firefox-bin[15124:145810] -[NSPersistentUIWindowSnapshotter writeWindowSnapshot:length:width:height:bytesPerRow:toFile:inDirectory:encryptingWithKey:uuid:checksum:fd:]: 0 == ftruncate(fd, fileLength) failed on line 874: No such file or directory
+1605703086019	Marionette	INFO	Listening on port 55289
+1605703086740	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605703093014	Marionette	INFO	Stopped listening on port 55289
+1605703214361	geckodriver	INFO	Listening on 127.0.0.1:56543
+1605703214545	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofileYk5c0d"
+[Parent 15181, IPC Launch #1] WARNING: parent WaitForMessage() failed: 0x10004003 (ipc/rcv) timed out: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp, line 1299
+[Parent 15181, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp, line 745
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Exiting due to channel error.
+Exiting due to channel error.
+1605703311886	geckodriver	INFO	Listening on 127.0.0.1:57548
+1605703312994	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofilexR4Xlr"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605703317745	Marionette	INFO	Listening on port 57559
+1605703318609	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+2020-11-18 13:42:12.676 firefox-bin[15221:148869] -[NSPersistentUIWindowSnapshotter writeWindowSnapshot:length:width:height:bytesPerRow:toFile:inDirectory:encryptingWithKey:uuid:checksum:fd:]: 0 == ftruncate(fd, finalFileSize) failed on line 803: No such file or directory
+2020-11-18 13:42:12.678 firefox-bin[15221:148869] -[NSPersistentUIWindowSnapshotter writeWindowSnapshot:length:width:height:bytesPerRow:toFile:inDirectory:encryptingWithKey:uuid:checksum:fd:]: 0 == ftruncate(fd, fileLength) failed on line 874: No such file or directory
+1605703340433	Marionette	INFO	Stopped listening on port 57559
+1605703409013	geckodriver	INFO	Listening on 127.0.0.1:58051
+1605703409152	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofilem3w1RK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605703415242	Marionette	INFO	Listening on port 58060
+1605703415306	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1605703423761	Marionette	INFO	Stopped listening on port 58060
+1605703448593	geckodriver	INFO	Listening on 127.0.0.1:58337
+1605703449668	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofile2MwmhI"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605703457946	Marionette	INFO	Listening on port 58352
+1605703457991	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1605703461550	Marionette	INFO	Stopped listening on port 58352
+1605703493717	geckodriver	INFO	Listening on 127.0.0.1:58668
+1605703493825	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofileBty3Aq"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605703498727	Marionette	INFO	Listening on port 58673
+1605703498829	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1605703502753	Marionette	INFO	Stopped listening on port 58673
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofileBty3Aq/protections.sqlite
+1605703565365	geckodriver	INFO	Listening on 127.0.0.1:59073
+1605703566308	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofilekXNPSF"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605703573982	Marionette	INFO	Listening on port 59085
+1605703574063	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1605703579426	Marionette	INFO	Stopped listening on port 59085
+1605703618990	geckodriver	INFO	Listening on 127.0.0.1:59433
+1605703620066	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofile3EfoVM"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605703625527	Marionette	INFO	Listening on port 59448
+1605703625623	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1605703628735	Marionette	INFO	Stopped listening on port 59448
+1605703738307	geckodriver	INFO	Listening on 127.0.0.1:60037
+1605703738380	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofilenVSMbP"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605703743637	Marionette	INFO	Listening on port 60042
+1605703743720	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1605703747978	Marionette	INFO	Stopped listening on port 60042
+1605703788445	geckodriver	INFO	Listening on 127.0.0.1:60372
+1605703788567	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofileZSIslA"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605703793457	Marionette	INFO	Listening on port 60377
+1605703793500	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1605703797871	Marionette	INFO	Stopped listening on port 60377
+1605703821800	geckodriver	INFO	Listening on 127.0.0.1:60618
+1605703821931	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofileTJ50eg"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605703827315	Marionette	INFO	Listening on port 60623
+1605703827342	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1605703832062	Marionette	INFO	Stopped listening on port 60623
+1605703948052	geckodriver	INFO	Listening on 127.0.0.1:61259
+1605703948130	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofileEAB6Xo"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605703956214	Marionette	INFO	Listening on port 61264
+1605703959816	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1605703970768	Marionette	INFO	Stopped listening on port 61264
+console.warn: services.settings: main/cfr-fxa sync interrupted by shutdown
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1D0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1605704029798	geckodriver	INFO	Listening on 127.0.0.1:61751
+1605704029962	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofiletOZzzD"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605704038460	Marionette	INFO	Listening on port 61756
+1605704038577	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1605704047518	Marionette	INFO	Stopped listening on port 61756
+console.error: services.settings: 
+  main/nimbus-desktop-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1D0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1605704103680	geckodriver	INFO	Listening on 127.0.0.1:62227
+1605704104721	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofilebq8ZCz"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605704110257	Marionette	INFO	Listening on port 62238
+1605704110368	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1605704116315	Marionette	INFO	Stopped listening on port 62238
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1605704158043	geckodriver	INFO	Listening on 127.0.0.1:62580
+1605704158052	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofileX3MqoQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605704160471	Marionette	INFO	Listening on port 62585
+1605704160518	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1605704174290	Marionette	INFO	Stopped listening on port 62585
+1605704204162	geckodriver	INFO	Listening on 127.0.0.1:62842
+1605704204317	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofileomjs98"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605704212241	Marionette	INFO	Listening on port 62847
+1605704212305	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1605704218906	Marionette	INFO	Stopped listening on port 62847
+1605704320783	geckodriver	INFO	Listening on 127.0.0.1:63597
+1605704320792	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofilekzZNNl"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605704322738	Marionette	INFO	Listening on port 63602
+1605704322762	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1605704330040	Marionette	INFO	Stopped listening on port 63602
+1605704576983	geckodriver	INFO	Listening on 127.0.0.1:64753
+1605704577955	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofilevEkqxA"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605704582968	Marionette	INFO	Listening on port 64764
+1605704583093	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1605704588735	Marionette	INFO	Stopped listening on port 64764
+1605704659996	geckodriver	INFO	Listening on 127.0.0.1:65221
+1605704660023	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofileZvPFV7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605704662476	Marionette	INFO	Listening on port 65226
+1605704662500	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1605704667813	Marionette	INFO	Stopped listening on port 65226
+1605704906919	geckodriver	INFO	Listening on 127.0.0.1:49927
+1605704907854	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofilezy4W6E"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605704913667	Marionette	INFO	Listening on port 49938
+1605704913705	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1605704918945	Marionette	INFO	Stopped listening on port 49938
+1605705028991	geckodriver	INFO	Listening on 127.0.0.1:50535
+1605705030055	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofileN2Lexo"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605705034393	Marionette	INFO	Listening on port 50550
+1605705034450	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1605705039237	Marionette	INFO	Stopped listening on port 50550
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1D0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1605705089119	geckodriver	INFO	Listening on 127.0.0.1:50890
+1605705089201	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofileyWtxl0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605705093823	Marionette	INFO	Listening on port 50895
+1605705093914	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1605705165600	geckodriver	INFO	Listening on 127.0.0.1:51300
+1605705166639	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofileDzaUFz"
+[Parent 16581, IPC Launch #1] WARNING: parent WaitForMessage() failed: 0x10004003 (ipc/rcv) timed out: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp, line 1299
+[Parent 16581, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp, line 745
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605705208581	Marionette	INFO	Listening on port 51311
+1605705208675	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1605705217249	Marionette	INFO	Stopped listening on port 51311
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 53: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+1605705252680	geckodriver	INFO	Listening on 127.0.0.1:52114
+1605705252949	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofileWKloVy"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605705259194	Marionette	INFO	Listening on port 52123
+1605705259309	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1605705264571	Marionette	INFO	Stopped listening on port 52123
+1605705279606	geckodriver	INFO	Listening on 127.0.0.1:52354
+1605705279734	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofilegNyYEK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605705286560	Marionette	INFO	Listening on port 52359
+1605705286605	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1605705291787	Marionette	INFO	Stopped listening on port 52359

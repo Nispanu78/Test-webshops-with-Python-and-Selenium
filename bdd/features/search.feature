@@ -8,9 +8,8 @@ Feature: I want to search for products
 
  Examples: By category
     | term    | search_count |
-    | Phones  | 3            |
-    | Bags	  | 7            |
+    | cardigan | 2            |
 
  Examples: By product name
     | term      	  | search_count |
-    | Madison earbuds | 3            |
+    |  earbuds        | 0            |

@@ -18,7 +18,6 @@ def step_i_search_for(context, text):
 
 @then('I should see results {text} in search results')
 def step_i_should_see_results(context, text):
-    products = context.driver. \
-        find_elements_by_xpath("//h2[@class='product-name']/a")
+    products = context.driver.find_elements_by_xpath("//h2[@class='product-name']/a")
     # check count of products shown in results
     assert len(products) >= int(text)
