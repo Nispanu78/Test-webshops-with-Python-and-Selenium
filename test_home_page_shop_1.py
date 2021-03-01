@@ -30,20 +30,20 @@ class HomePageTest(unittest.TestCase):
 
     def test_language_option(self):
         # check language options dropdown on Home page
-        self.assertTrue(self.is_element_present(By.ID, 'switcher-language'))
+        self.assertTrue(self.is_element_present(By.ID, "switcher-language"))
 
     def test_shopping_cart_empty_message(self):
         # check content of My Shopping Cart block on Home page
         shopping_cart_icon = \
-            self.driver.find_element_by_css_selector('.minicart-wrapper')
+            self.driver.find_element_by_css_selector(".minicart-wrapper")
         shopping_cart_icon.click()
         # get the shopping cart status
         shopping_cart_status = \
-            self.driver.find_element_by_css_selector('.minicart-wrapper .action.showcart').text
-        self.assertTrue('You have no items in your shopping cart.', shopping_cart_status)
+            self.driver.find_element_by_css_selector(".minicart-wrapper .action.showcart").text
+        self.assertTrue("You have no items in your shopping cart.", shopping_cart_status)
         # close the shopping cart section
         close_button = self.driver. \
-            find_element_by_class_name('action-close')
+            find_element_by_class_name("action-close")
 
     def test_my_account_link_is_displayed(self):
         # get the account link
@@ -83,7 +83,7 @@ class HomePageTest(unittest.TestCase):
         # check all fields are enabled
         self.assertTrue(first_name.is_enabled() and last_name.is_enabled() and
                         email_address.is_enabled() and
-                        news_letter_subscription. is_enabled() and
+                        news_letter_subscription.is_enabled() and
                         password.is_enabled() and
                         confirm_password.is_enabled() and
                         create_an_account_button.is_enabled())
