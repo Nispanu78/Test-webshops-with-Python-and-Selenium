@@ -31,7 +31,7 @@ class NavigationTest(unittest.TestCase):
 
         driver.back()
         self.assertTrue(WebDriverWait(self.driver, 10)
-                        .until(expected_conditions.title_is('selenium webdriver - Google Search')))
+                        .until(expected_conditions.title_is('Selenium Webdriver - Google Search')))
 
         driver.forward()
         self.assertTrue(WebDriverWait(self.driver, 10)
