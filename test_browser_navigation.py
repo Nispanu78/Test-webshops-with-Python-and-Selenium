@@ -21,7 +21,7 @@ class NavigationTest(unittest.TestCase):
         search_field.clear()
 
         # enter search keyword and submit
-        search_field.send_keys('selenium webdriver')
+        search_field.send_keys('Selenium webdriver')
         search_field.submit()
 
         se_wd_link = driver. \
