@@ -31,7 +31,7 @@ class CookiesTest(unittest.TestCase):
 
         # store cookie should be populated with selected country
         store_cookie = driver.get_cookie('store')['value']
-        self.assertEqual('french', store_cookie)
+        self.assertEqual('French', store_cookie)
 
     def tearDown(self):
         # close the browser window
